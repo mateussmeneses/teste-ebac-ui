@@ -17,10 +17,8 @@
     "url": "https://github.com/mateussmeneses/teste-ebac-ui/issues"
   },
   "homepage": "https://github.com/mateussmeneses/teste-ebac-ui#readme",
+
   "dependencies": {
-    "cypress": "^12.2.0",
-    "faker": "npm:Faker@^0.7.2",
-    "Faker": "^0.7.2",
-    "faker-br": "^0.4.1"
+    "faker": "^6.6.6"
   }
 }
